@@ -41,7 +41,7 @@ nmap <F5> <Esc>:TlistClose<CR>
 " 添加程序文件主题信息, 按下F9添加... 
 function MyTitle()
 call setline(1, "/* ---------------------------------------")
-call append(line("."), " * Copyright(C)2006 - 2013 联迪商用设备有限公司")
+call append(line("."), " * Copyright(C)2006 - 2013 ")
 call append(line(".")+1, " * FileName  :  ".expand("%"))
 call append(line(".")+2, " * CreateInfo:  LinQili@".strftime(" %Y.%m.%d %T"))
 call append(line(".")+3, " * ---------------------------------------")
