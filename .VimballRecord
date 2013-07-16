@@ -1,0 +1,1 @@
+tagbar.vmb: call delete('/home/linqil/.vim/README.md')|call delete('/home/linqil/.vim/autoload/tagbar.vim')|call delete('/home/linqil/.vim/doc/tagbar.txt')|call delete('/home/linqil/.vim/plugin/tagbar.vim')|call delete('/home/linqil/.vim/syntax/tagbar.vim')

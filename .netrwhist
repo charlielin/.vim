@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/linqil/epay5test/ScriptPos'
+let g:netrw_dirhist_2='/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.0.x86_64'
+let g:netrw_dirhist_3='/home/linqil/kms_db2'
+let g:netrw_dirhist_4='/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include'
+let g:netrw_dirhist_5='/usr/include/c++/4.4.4/ext'
+let g:netrw_dirhist_6='/home/linqil/epay5/log'
+let g:netrw_dirhist_7='/home/linqil/epay5/libsrc/pub/..'
+let g:netrw_dirhist_8='/home/linqil/epay5/log'
+let g:netrw_dirhist_9='/home/linqil/test'
